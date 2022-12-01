@@ -12,4 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MiguelSoaresDev&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSoaresDev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Snake animation](https://github.com/MiguelSoaresDev/MiguelSoaresDev/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
