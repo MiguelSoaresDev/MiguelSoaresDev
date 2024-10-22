@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente estou cursando Desenvolvimento de sistemas<br>🌱 Estou aprendendo React.js
+🔭 Atualmente sou formado no curso técnico de Desenvolvimento de sistemas<br>🌱 Amo react.js React.js
 
 
 ## 🌐 Socials:
